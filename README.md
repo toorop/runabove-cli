@@ -93,7 +93,10 @@ Or:
   	
  For now only storage part is done, you can :
  
-### list	(ls)
+ 
+### Storage 
+ 
+#### list	(ls)
 Lists remote path via the "list" command 
 
 Example:
@@ -114,7 +117,7 @@ Example:
 	0    application/octet-stream   0      2014-11-11T15:11:44Z   fde7e701b0b2573d3966551c175870c3   util.go
 
  
-### copy (cp)
+#### copy (cp)
 With the "copy" command you can recursively download path form Runabove storage to your disk, or upload from your local storage to Runabove.
 
 Example for downloading:
@@ -125,7 +128,7 @@ Or for uploading:
 
 	./ra storage cp /home/toorop/project/ /SBG-1/projects/	
 
-### remove (rm)
+#### remove (rm)
 Recursively remove path and file from Runabove storage
 
 Example:
