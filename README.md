@@ -7,6 +7,18 @@ The aim is not to provide another openstack cli client but an easy to use tool t
 
 ![Demo](http://dl.toorop.fr/softs/runabove-cli/pict/runabove-cli-demo.gif)
 
+## Todo
+
+
+- [x] storage
+- [ ] compute
+- [ ] image
+- [ ] network
+- [ ] me
+- [ ] docker
+- [ ] ...
+
+
 ## How to use
 
 #### 1 - Download executable
@@ -122,13 +134,7 @@ Example:
  	
 	 	
 
-## Todo
 
-* compute	
-* image)
-* network
-* me
-* *..
 
 ## Need a specific Runabove tool/developpement ?
 Please feel free to contact me: toorop@gmail.com
