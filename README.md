@@ -7,6 +7,11 @@ The aim is not to provide another openstack cli client but an easy to use tool t
 
 ![Demo](http://dl.toorop.fr/softs/runabove-cli/pict/runabove-cli-demo.gif)
 
+
+## Disclaimer
+
+I do not work for Runabove nor OVH and this project is not supported by them. 
+
 ## Todo
 
 
@@ -129,7 +134,7 @@ Or for uploading:
 	./ra storage cp /home/toorop/project/ /SBG-1/projects/	
 
 #### remove (rm)
-Recursively remove path and file from Runabove storage
+Recursively remove paths and files from Runabove storage
 
 Example:
 	
