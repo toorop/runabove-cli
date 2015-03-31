@@ -125,6 +125,8 @@ Example:
 #### copy (cp)
 With the "copy" command you can recursively download path form Runabove storage to your disk, or upload from your local storage to Runabove.
 
+**Note that only files that have been changed since last cp will be transferred**
+
 Example for downloading:
 
 	./ra storage cp /SBG-1/projects/runabove-cli /home/toorop/
